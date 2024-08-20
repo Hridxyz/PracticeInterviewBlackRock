@@ -645,3 +645,44 @@ Here are answers to the additional questions focusing on scalability, performanc
         - **Audit Logs:** Enable logging for admin actions, such as login attempts and changes made via the admin interface, to detect any unauthorized or suspicious activity.
         - **Timeouts and Lockouts:** Implement session timeouts and account lockouts after a certain number of failed login attempts to prevent brute-force attacks.
 
+Based on the job description for the Portfolio Management Group (PMG) Technology Intern at BlackRock and the inclusion of the `Justice_Buddy` project in your resume, here are some possible interview questions related to your project that align with the responsibilities and expectations of the role:
+
+### **1. Data and Analytics Solutions**
+- **Question:** How did you handle data analytics in the `Justice_Buddy` project, and how would you apply similar techniques to generate investment insights in this role?
+- **Answer:** In `Justice_Buddy`, I handled data by designing and querying the database using Django’s ORM, ensuring efficient data retrieval for legal queries. For generating investment insights, I would leverage similar data engineering skills, using Python and SQL to process large datasets, extract meaningful patterns, and develop actionable insights for portfolio management.
+
+### **2. Python Code Development**
+- **Question:** Can you explain a challenging aspect of maintaining or developing Python code in `Justice_Buddy`, and how does it prepare you for developing and maintaining Python code for investment research at BlackRock?
+- **Answer:** One challenging aspect was optimizing the Django views for performance when handling complex queries and large datasets. I used Python’s efficient data structures and Django’s caching mechanisms to enhance performance. This experience prepares me to write optimized, maintainable Python code in a fast-paced, data-intensive environment, such as developing research tools for portfolio management.
+
+### **3. Technology-Driven Solutions**
+- **Question:** How did you approach building technology-driven solutions in `Justice_Buddy`, and how would you adapt this approach to redesign and optimize portfolio management processes at BlackRock?
+- **Answer:** In `Justice_Buddy`, I built a user-friendly platform that integrated real-time data processing and user interaction using Django. My approach involved iterative development, user feedback integration, and leveraging technology to solve user problems efficiently. At BlackRock, I would apply the same principles to develop innovative tools that streamline portfolio management, ensuring they are user-centric and technologically robust.
+
+### **4. Handling Large Data Sets**
+- **Question:** The JD emphasizes engineering and analyzing large amounts of data. How did you ensure the scalability of data handling in `Justice_Buddy`, and how would you apply those strategies to financial data at BlackRock?
+- **Answer:** In `Justice_Buddy`, I ensured scalability by using Django’s ORM with optimized queries, implementing database indexing, and using caching to handle large datasets efficiently. For financial data at BlackRock, I would similarly focus on scalable database design, efficient query strategies, and possibly incorporate distributed computing frameworks like Apache Spark for handling large-scale financial data.
+
+### **5. Integration with Aladdin Engineering Teams**
+- **Question:** Although `Justice_Buddy` does not directly relate to financial systems like Aladdin, how would your experience with integrating different technologies in `Justice_Buddy` help you work with Aladdin Engineering teams?
+- **Answer:** My experience with integrating various tools and technologies in `Justice_Buddy`, such as combining Django with external APIs, has taught me how to collaborate across different technical stacks. This experience would help me work effectively with Aladdin Engineering teams to integrate new methodologies into the research platform and ensure that the technology infrastructure supports advanced investment processes.
+
+### **6. Portfolio Analysis and Management**
+- **Question:** How would you apply the problem-solving skills you used in `Justice_Buddy` to tackle challenges in portfolio analysis and management at BlackRock?
+- **Answer:** In `Justice_Buddy`, I solved complex problems such as efficiently managing user data, ensuring security, and optimizing performance. These problem-solving skills would be directly applicable to portfolio analysis and management, where I would approach challenges with a focus on data integrity, performance optimization, and robust risk management strategies.
+
+### **7. Communication with Stakeholders**
+- **Question:** How did you communicate technical details to non-technical stakeholders in `Justice_Buddy`, and how would you adapt this skill when communicating with Investors and Portfolio Managers at BlackRock?
+- **Answer:** In `Justice_Buddy`, I often had to explain technical concepts, like data security and system architecture, in simple terms to stakeholders who were not technically inclined. I would use this experience to communicate complex technical information clearly and concisely to investors and portfolio managers, ensuring that they understand the implications of the technology on their investment strategies.
+
+### **8. Building Innovative Solutions**
+- **Question:** Describe an innovative solution you implemented in `Justice_Buddy` and discuss how you would bring a similar innovative approach to BlackRock’s investment and portfolio management processes.
+- **Answer:** An innovative solution in `Justice_Buddy` was the implementation of dynamic content rendering, which improved user experience by making the platform highly responsive to user interactions. At BlackRock, I would seek to implement innovative solutions by automating data-driven decision-making processes, enhancing user interfaces for portfolio management tools, and integrating real-time analytics to support investment decisions.
+
+### **9. Collaboration on Concurrent Projects**
+- **Question:** The JD mentions working on multiple concurrent projects. How did you manage and prioritize tasks in `Justice_Buddy`, and how would you apply that experience to handle multiple projects at BlackRock?
+- **Answer:** In `Justice_Buddy`, I managed concurrent tasks by prioritizing based on project deadlines, impact, and resource availability. I used tools like Trello to keep track of tasks and ensure timely completion. At BlackRock, I would apply the same project management skills, using Agile methodologies to prioritize and manage multiple projects effectively, ensuring that each project progresses smoothly without compromising quality.
+
+### **10. Curiosity and Continuous Learning**
+- **Question:** How did your curiosity drive the development of `Justice_Buddy`, and how would this trait help you in the PMG Technology Intern role at BlackRock?
+- **Answer:** My curiosity led me to explore new technologies and frameworks, which resulted in `Justice_Buddy` being built with a modern, scalable architecture. At BlackRock, my curiosity would drive me to continuously learn about new financial technologies, investment strategies, and data science techniques, helping me contribute to the team by bringing fresh perspectives and innovative solutions.
